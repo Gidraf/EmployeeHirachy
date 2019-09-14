@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/RunEmployeeHierachy.csproj": {}
+  },
+  "projects": {
+    "/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/RunEmployeeHierachy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/RunEmployeeHierachy.csproj",
+        "projectName": "RunEmployeeHierachy",
+        "projectPath": "/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/RunEmployeeHierachy.csproj",
+        "packagesPath": "/Users/gidraf/.nuget/packages/",
+        "outputPath": "/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gidraf/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

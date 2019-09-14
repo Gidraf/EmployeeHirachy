@@ -1,0 +1,13 @@
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/RunEmployeeHierachy.deps.json
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/RunEmployeeHierachy.runtimeconfig.json
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/RunEmployeeHierachy.runtimeconfig.dev.json
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/RunEmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/RunEmployeeHierachy.pdb
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/EmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/Debug/netcoreapp2.2/RunEmployeeHierachy.csprojAssemblyReference.cache
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/Debug/netcoreapp2.2/RunEmployeeHierachy.AssemblyInfoInputs.cache
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/Debug/netcoreapp2.2/RunEmployeeHierachy.AssemblyInfo.cs
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/Debug/netcoreapp2.2/RunEmployeeHierachy.csproj.CopyComplete
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/Debug/netcoreapp2.2/RunEmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/obj/Debug/netcoreapp2.2/RunEmployeeHierachy.pdb
+/Users/gidraf/projects/EmployeeHierachy/RunEmployeeHierachy/bin/Debug/netcoreapp2.2/EmployeeHierachy.pdb

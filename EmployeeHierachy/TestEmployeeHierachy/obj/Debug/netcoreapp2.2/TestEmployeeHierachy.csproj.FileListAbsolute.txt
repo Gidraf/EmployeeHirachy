@@ -1,0 +1,17 @@
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/TestEmployeeHierachy.deps.json
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/TestEmployeeHierachy.runtimeconfig.json
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/TestEmployeeHierachy.runtimeconfig.dev.json
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/TestEmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/TestEmployeeHierachy.pdb
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/EmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/bin/Debug/netcoreapp2.2/EmployeeHierachy.pdb
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.csprojAssemblyReference.cache
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.csproj.CoreCompileInputs.cache
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.AssemblyInfoInputs.cache
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.AssemblyInfo.cs
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.csproj.CopyComplete
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/TestEmployeeHierachy/obj/Debug/netcoreapp2.2/TestEmployeeHierachy.pdb

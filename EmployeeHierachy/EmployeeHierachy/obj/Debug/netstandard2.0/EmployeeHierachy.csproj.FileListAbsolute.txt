@@ -1,0 +1,9 @@
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/bin/Debug/netstandard2.0/EmployeeHierachy.deps.json
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/bin/Debug/netstandard2.0/EmployeeHierachy.pdb
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.AssemblyInfoInputs.cache
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.AssemblyInfo.cs
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.csproj.CopyComplete
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.dll
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.pdb
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.csprojAssemblyReference.cache
+/Users/gidraf/projects/EmployeeHierachy/EmployeeHierachy/obj/Debug/netstandard2.0/EmployeeHierachy.csproj.CoreCompileInputs.cache

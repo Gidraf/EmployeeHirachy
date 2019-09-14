@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{00D8EC40-34E0-48F2-9398-D73D7657E0EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestEmployeeHierachy FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeHierachy/Employees.cs">
+    <Files>
+      <File FileName="EmployeeHierachy/Employees.cs" Line="86" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeHierachy" expanded="True">
+            <Node name="EmployeeHierachy" expanded="True">
+              <Node name="Employees.cs" selected="True" />
+            </Node>
+            <Node name="RunEmployeeHierachy" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TestEmployeeHierachy/TestEmployeeHierachy.csproj</String>
+    <String>TestEmployeeHirachy/TestEmployeeHirachy.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RunEmployeeHierachy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
